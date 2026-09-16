@@ -1,0 +1,1 @@
+Place your profile photo here and rename it to: profile.jpg
